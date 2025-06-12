@@ -1,1 +1,1 @@
-# hola chicos este es mi primer repositorio, espero que les sirva, saludos.
+Proyecto Final Lab de Compus: TechMarket
